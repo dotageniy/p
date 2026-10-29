@@ -2,3 +2,11 @@ node_modules/
 dist/
 .env
 *.local
+
+# Python (server)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/

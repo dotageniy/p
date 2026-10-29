@@ -1,2 +1,8 @@
-node_modules
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+tests/
+requirements-dev.txt
 .env
